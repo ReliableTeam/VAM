@@ -3,7 +3,7 @@
 ## Quick install from source (depends on `R` package `remotes` extracted from `devtools`)
 
 ```{R}
-R> remotes::install_github("rcqls/VAM")
+R> remotes::install_github("ReliableTeam/VAM")
 ```
 
 ## Introduction of tools
